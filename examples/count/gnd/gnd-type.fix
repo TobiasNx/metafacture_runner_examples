@@ -1,0 +1,3 @@
+copy_field("002@.0","type")
+substring("type","1","1")
+retain("type")
